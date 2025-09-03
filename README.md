@@ -1,10 +1,8 @@
-# Masters-Project-Autonomous-Robotic-Arm-Control-for-Space-Rover
+# Masters Project: Autonomous 6-DoF Robotic Arm Control on a Space Rover
 A self-contained framework combining analytical inverse kinematics and ArUco-marker vision to drive a 6-DOF robotic arm on a mobile rover.
 
 
-**Inverse Kinematics + Vision-Based Feedback + ROS2 Integration**
-
-A complete end-to-end framework that fuses analytical inverse kinematics (IK) with ArUco-marker computer vision to drive a 6-DoF robotic arm on a mobile rover. Designed for extraterrestrial and industrial tasks, this system achieves **sub-millimeter accuracy**, **sub-100 ms latency**, and **fully autonomous closed-loop operation**.
+**Inverse Kinematics + Vision-Based Feedback**
 
 ---
 
@@ -101,7 +99,6 @@ Together, these modules enable the robotic arm to detect targets, estimate pose,
 
 * Real-time 3D plotting with **Matplotlib**.
 * "U-shaped gripper" marker for camera orientation.
-* Interactive updates using `plt.ion()`.
 
 ---
 
