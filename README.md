@@ -24,8 +24,8 @@ Together, these modules enable the robotic arm to detect targets, estimate pose,
 
 ### Why this matters
 
-* 🚀 **Space robotics**: Autonomous arms are essential for lunar/planetary rovers where human input is limited.
-* 🏭 **Industrial automation**: Vision-guided arms adapt to unstructured environments without manual reprogramming.
+*  **Space robotics**: Autonomous arms are essential for lunar/planetary rovers where human input is limited.
+*  **Industrial automation**: Vision-guided arms adapt to unstructured environments without manual reprogramming.
 
 ### Project Objectives
 
