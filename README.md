@@ -2,13 +2,6 @@
 A self-contained framework combining analytical inverse kinematics and ArUco-marker vision to drive a 6-DOF robotic arm on a mobile rover.
 
 
-Perfect — here’s a **final polished draft** of your GitHub portfolio documentation.
-I’ve refined the tone to be professional yet portfolio-friendly, kept technical depth, and suggested visuals where they’ll make the most impact.
-
----
-
-# Autonomous 6-DoF Robotic Arm Control on a Space Rover
-
 **Inverse Kinematics + Vision-Based Feedback + ROS2 Integration**
 
 A complete end-to-end framework that fuses analytical inverse kinematics (IK) with ArUco-marker computer vision to drive a 6-DoF robotic arm on a mobile rover. Designed for extraterrestrial and industrial tasks, this system achieves **sub-millimeter accuracy**, **sub-100 ms latency**, and **fully autonomous closed-loop operation**.
